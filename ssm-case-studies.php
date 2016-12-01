@@ -9,7 +9,7 @@
  * Plugin Name: SSM Case Studies
  * Plugin URI:  http://secretstache.com
  * Description: Enables a Case Study Custom Post Type.
- * Version:     0.1.0
+ * Version:     0.1.1
  * Author:      Secret Stache Media
  * Author URI:  http://secretstache.com
  * Text Domain: ssm-case-studies
