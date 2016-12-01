@@ -59,9 +59,9 @@ if ( is_admin() ) {
 
 require plugin_dir_path( __FILE__ ) . 'includes/plugin_update_check.php';
 
-// $MyUpdateChecker = new PluginUpdateChecker_2_0 (
-//     'https://kernl.us/api/v1/updates/58404da74201f306a6d77ea7/',
-//     __FILE__,
-//     'ssm-case-studies',
-//     1
-// );
+$MyUpdateChecker = new PluginUpdateChecker_2_0 (
+    'https://kernl.us/api/v1/updates/5840597f4201f306a6d77eaa/',
+    __FILE__,
+    'ssm-case-studies',
+    1
+);
